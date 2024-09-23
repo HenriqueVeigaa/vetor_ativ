@@ -1,0 +1,7 @@
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\bola1\OneDrive\Área de Trabalho\c#\Vetores\Vetores\obj\Debug\Vetores.pdb
